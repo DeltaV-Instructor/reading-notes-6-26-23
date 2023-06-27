@@ -1,9 +1,8 @@
 # Reading Notes Repo for 102
 
+## this is my introduction to my reading notes repo. What the purpose of the reading notes is, and something about yourself.. I am currently taking 102 coding bootcamp. This contains notes from my class lectures and assignments
+
 ## Table of Contents
 
-- [Class 1 Reading Notes](102/class-1.md)
-- [Class 2 Reading Notes](102/class-2.md)
-- [Class 3 Reading Notes](class-3.md)
-- [Class 4 Reading Notes](class-4.md)
-- [Class 5 Reading Notes](class-5.md)
+- [102 Reading Notes](102/102-TOC.md)
+- [201 Reading Notes](201/201-TOC.md)
